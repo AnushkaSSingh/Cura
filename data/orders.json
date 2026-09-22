@@ -1,1 +1,29 @@
-[]
+[
+  {
+    "order_id": "ORD1001",
+    "customer_id": "CUST001",
+    "status": "Delayed",
+    "order_date": "2026-09-15",
+    "expected_delivery": "2026-09-19",
+    "actual_delivery": null,
+    "amount": 2499.00
+  },
+  {
+    "order_id": "ORD1002",
+    "customer_id": "CUST002",
+    "status": "Delivered",
+    "order_date": "2026-09-16",
+    "expected_delivery": "2026-09-19",
+    "actual_delivery": "2026-09-18",
+    "amount": 1599.00
+  },
+  {
+    "order_id": "ORD1003",
+    "customer_id": "CUST003",
+    "status": "Processing",
+    "order_date": "2026-09-17",
+    "expected_delivery": "2026-09-23",
+    "actual_delivery": null,
+    "amount": 3299.00
+  }
+]

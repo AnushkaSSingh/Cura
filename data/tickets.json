@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "ticket_id": "TICK3001",
+    "customer_id": "CUST001",
+    "subject": "Order delivery delay",
+    "description": "Customer contacted support about a delayed order.",
+    "status": "Closed",
+    "priority": "High",
+    "created_at": "2026-09-18",
+    "updated_at": "2026-09-18"
+  },
+  {
+    "ticket_id": "TICK3002",
+    "customer_id": "CUST002",
+    "subject": "Delivery confirmation",
+    "description": "Customer asked about delivery status.",
+    "status": "Closed",
+    "priority": "Low",
+    "created_at": "2026-09-17",
+    "updated_at": "2026-09-18"
+  },
+  {
+    "ticket_id": "TICK3003",
+    "customer_id": "CUST003",
+    "subject": "Order processing",
+    "description": "Customer asked why the order is still processing.",
+    "status": "Open",
+    "priority": "Medium",
+    "created_at": "2026-09-19",
+    "updated_at": "2026-09-19"
+  }
+]
